@@ -1,6 +1,6 @@
-<h1 align="center">Hello!👋 Welcome to my github:)</h1>
+<h1 align="center">Hello!</h1>
 <p align='center'>
-  My name is markus and i am a bachelor student in <b>Informatics</b> at the Norwegian university of science and technology -> <b>NTNU</b>
+  My name is Markus and i am a bachelor student in <b>Informatics</b> at the Norwegian university of science and technology -> <b>NTNU</b>
 </p>
 <p align='center'>
   I live and study in Trondheim, Norway!
@@ -24,10 +24,16 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Tailwind-06B6D4?&style=flat&logo=tailwind&logoColor=black" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Git-F05032?&style=flat&logo=git&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?&style=flat&logo=figma&logoColor=black" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Java-F05032?&style=flat&logo=java&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Python-3776AB?&style=flat&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Vercell-000000?&style=flat&logo=vervell&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
-<p align='right'>
+<p align='center'>
 <h4>I also have a portfolio webpage under developement...</h4>
   <a href="https://portfolio-j0hans1.vercel.app/">Portfolio!</a>&nbsp;&nbsp;&nbsp;
 </p>
