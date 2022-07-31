@@ -30,6 +30,9 @@
   <img src="https://img.shields.io/badge/-Java-F05032?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Vercel-000000?&style=for-the-badge&logo=vercel&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-JavaFX-000000?&style=for-the-badge&logo=vercel&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Json-000000?&style=for-the-badge&logo=vercel&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-VS Code-007ACC?&style=for-the-badge&logo=vs-code&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
