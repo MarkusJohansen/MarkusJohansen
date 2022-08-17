@@ -39,5 +39,5 @@
 
 <p align='center'>
 <h4>I also have a portfolio webpage under developement...</h4>
-  <a href="https://portfolio-j0hans1.vercel.app/">Portfolio!</a>&nbsp;&nbsp;&nbsp;
+  <a href="https:/johansen.tech/">johansen.tech!</a>&nbsp;&nbsp;&nbsp;
 </p>
