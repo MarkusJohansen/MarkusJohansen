@@ -33,6 +33,7 @@
   <img src="https://img.shields.io/badge/-Redux-764ABC?&style=for-the-badge&logo=redux&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-MUI-007FFF?&style=for-the-badge&logo=mui&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-SQLite-003B57?&style=for-the-badge&logo=sqlite&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
