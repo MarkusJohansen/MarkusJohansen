@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/-Figma-F24E1E?&style=for-the-badge&logo=figma&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-VS Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=wireshark&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=firebase&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?&style=for-the-badge&logo=firebase&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
