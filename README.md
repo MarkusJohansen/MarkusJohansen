@@ -34,10 +34,10 @@
   <img src="https://img.shields.io/badge/-MUI-007FFF?&style=for-the-badge&logo=MUI&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-SQLite-003B57?&style=for-the-badge&logo=SQLite&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-SQLite-003B57?&style=for-the-badge&logo=Kotlin&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-SQLite-003B57?&style=for-the-badge&logo=PostgreSQL&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-SQLite-003B57?&style=for-the-badge&logo=Next&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/-SQLite-003B57?&style=for-the-badge&logo=Exposed&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Kotlin-7F52FF?&style=for-the-badge&logo=Kotlin&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?&style=for-the-badge&logo=PostgreSQL&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Next-00000?&style=for-the-badge&logo=Next&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-Exposed-00000?&style=for-the-badge&logo=JetBrains&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 
