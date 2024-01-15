@@ -8,32 +8,32 @@ I live and study in Trondheim, Norway. In my sparetime i enjoy playing music ðŸŽ
 
 I enjoy both development, design and security work. Through studies, personal projects and work experience I have acquired competencies within the following technologies and tools
 
-<img src="https://img.shields.io/badge/-Figma-F24E1E?&style=for-the-badge&logo=Figma&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=CSS3&logoColor=white" />
-<img src="https://img.shields.io/badge/-Tailwind-06B6D4?&style=for-the-badge&logo=Tailwind-css&logoColor=black" />
+<img src="https://img.shields.io/badge/-Figma-F24E1E?&style=for-the-badge&logo=Figma&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=CSS3&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/-Tailwind-06B6D4?&style=for-the-badge&logo=Tailwind-css&logoColor=black" />&nbsp;
 <img src="https://img.shields.io/badge/-Ant Design-0170FE?&style=for-the-badge&logo=antdesign
-&logoColor=white" />
-<img src="https://img.shields.io/badge/-MUI-007FFF?&style=for-the-badge&logo=MUI&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=Typescript&logoColor=white" />
+&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/-MUI-007FFF?&style=for-the-badge&logo=MUI&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=Typescript&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/-nuxt-00DC82?&style=for-the-badge&logo=nuxtdotjs
-&logoColor=black" />
-<img src="https://img.shields.io/badge/-Next.js-000000?&style=for-the-badge&logo=Next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/-Java-F05032?&style=for-the-badge&logo=Oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
-<img src="https://img.shields.io/badge/-Kotlin-7F52FF?&style=for-the-badge&logo=Kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/-KTOR-7F52FF?&style=for-the-badge&logo=Kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/-Django-3776AB?&style=for-the-badge&logo=Django&logoColor=white" />
+&logoColor=black" />&nbsp;
+<img src="https://img.shields.io/badge/-Next.js-000000?&style=for-the-badge&logo=Next.js&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/-Java-F05032?&style=for-the-badge&logo=Oracle&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/-Kotlin-7F52FF?&style=for-the-badge&logo=Kotlin&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/-KTOR-7F52FF?&style=for-the-badge&logo=Kotlin&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/-Django-3776AB?&style=for-the-badge&logo=Django&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/-Django REST
--3776AB?&style=for-the-badge&logo=Django&logoColor=white" />
-<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?&style=for-the-badge&logo=PostgreSQL&logoColor=white" />
-<img src="https://img.shields.io/badge/-SQLite-003B57?&style=for-the-badge&logo=SQLite&logoColor=white" />
+-3776AB?&style=for-the-badge&logo=Django&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?&style=for-the-badge&logo=PostgreSQL&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/-SQLite-003B57?&style=for-the-badge&logo=SQLite&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/-Postman-FF6C37?&style=for-the-badge&logo=postman
-&logoColor=white" />
+&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/-npm-CB3837?&style=for-the-badge&logo=npm
-&logoColor=white" />
-<img src="https://img.shields.io/badge/-Vercel-000000?&style=for-the-badge&logo=Vercel&logoColor=white" />
-<img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" />
-<img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=Git&logoColor=white" />
+&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/-Vercel-000000?&style=for-the-badge&logo=Vercel&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=Git&logoColor=white" />&nbsp;
 
 # Get in touch!
 
