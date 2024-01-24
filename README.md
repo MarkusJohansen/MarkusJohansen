@@ -10,6 +10,7 @@ I enjoy both development, design and security work. Through studies, personal pr
 
 <img src="https://img.shields.io/badge/-Figma-F24E1E?&style=for-the-badge&logo=Figma&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=CSS3&logoColor=white" />&nbsp;
+<img src="https://img.shields.io/badge/sass-CC6699?&style=for-the-badge&logo=sass&logoColor=white" />&nbsp;
 <img src="https://img.shields.io/badge/-Tailwind-06B6D4?&style=for-the-badge&logo=Tailwind-css&logoColor=black" />&nbsp;
 <img src="https://img.shields.io/badge/-Ant Design-0170FE?&style=for-the-badge&logo=antdesign
 &logoColor=white" />&nbsp;
