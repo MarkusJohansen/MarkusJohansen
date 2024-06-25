@@ -1,6 +1,6 @@
 # Hello!
 
-My name is Markus! I am a 3rd-year <b>computer science</b> student, at the Norwegian university of science and technology -> <b>NTNU</b> 👨🏻‍🏫
+My name is Markus! I am a <b>computer science</b> BSc, from the Norwegian university of science and technology -> <b>NTNU</b> 👨🏻‍🏫
 
 I live and study in Trondheim, Norway. In my sparetime i enjoy playing music 🎸 fishing🎣 and working on personal development projects🧑‍💻
 
